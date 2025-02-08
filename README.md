@@ -14,7 +14,7 @@ https://mdpc.dousetsu.com/utility/midi/wave_gamma.htm
 ![image](https://github.com/denjhang/wav2m882fui-OPL/blob/main/pics/wave_mml_m88.png)
 ![image](https://github.com/denjhang/wav2m882fui-OPL/blob/main/pics/make_m88.png)
 
-# cc3.exe
+# cc2.exe
 This program can convert mucom88 mml text in mgs format into an OPM fui files. 
 It can be used using the following command:  
 `cc2 %name%.txt %name%\ -opm`  
