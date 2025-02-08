@@ -15,7 +15,7 @@ https://mdpc.dousetsu.com/utility/midi/wave_gamma.htm
 ![image](https://github.com/denjhang/wav2m882fui-OPL/blob/main/pics/make_m88.png)
 
 # cc3.exe
-This program can convert mucom88 mml text in mgs format into an OPN fui files. 
+This program can convert mucom88 mml text in mgs format into an OPM fui files. 
 
 # Usage
 1. First use something like Audacity to trim the audio. I don't recommend that the length of a single audio file exceed 5 seconds. Note that it must be a signed 44100Hz 16-bit wav file.   
